@@ -12,7 +12,7 @@ A shop owner wants to know what are the best coffee for a customer to make sure 
 - Top Sales over the years.
 - What are Products cost and which sell the most?
 
-- <a href="https://github.com/thechampionjason-stack/Excel--Project/blob/main/Excel%20Dashboard.png">
+<a href="https://github.com/thechampionjason-stack/Excel--Project/blob/main/Excel%20Dashboard.png">
 
 ## Dashboard
 <img width="541" height="277" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/1990bb05-ccfd-49e4-a2b4-f011e709d18c" />
